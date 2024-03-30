@@ -104,6 +104,10 @@ body {
         display: none;
     }
 
+    .downarrow {
+        padding-left: 20px;
+    }
+
     .button-container {
         text-align: center;
     }
