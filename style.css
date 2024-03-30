@@ -58,6 +58,11 @@ body {
     font-size: xx-large;
 }
 
+.downarrow {
+    vertical-align: super;
+    padding-left: 15px;
+}
+
 .button-container {
     text-align: right;
 }
